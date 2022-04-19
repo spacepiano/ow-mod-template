@@ -24,7 +24,10 @@ namespace ModTemplate
                 var playerBody = FindObjectOfType<PlayerBody>();
                 ModHelper.Console.WriteLine($"Found player body, and it's called {playerBody.name}!",
                     MessageType.Success);
+
+
             };
         }
+
     }
 }
