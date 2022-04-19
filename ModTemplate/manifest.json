@@ -1,8 +1,8 @@
 {
-  "filename": "ModTemplate.dll",
-  "author": "Raicuparta",
-  "name": "Mod Template",
-  "uniqueName": "Raicuparta.ModTemplate",
+  "filename": "RemoveUI.dll",
+  "author": "Spacepiano",
+  "name": "Remove UI",
+  "uniqueName": "Spacepiano.RemoveUI",
   "version": "0.1.0",
   "owmlVersion": "2.3.2"
 }
